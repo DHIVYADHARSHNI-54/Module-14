@@ -23,7 +23,6 @@ To write a Python program to insert elements at REAR END of deque using a collec
 ---
 
 ### PROGRAM  
-
 ```
 import collections
 a=int(input())
